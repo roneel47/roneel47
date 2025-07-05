@@ -22,7 +22,7 @@ I enjoy creating solutions to real-world problems through code. My repositories 
 - System design principles
 
 ## 📫 How to reach me
-- GitHub: [@roneel47good](https://github.com/roneel47good)
+- GitHub: [@roneel47](https://github.com/roneel47)
 - Portfolio: [My Personal Portfolio](https://portfolio-virid-xi-69.vercel.app/)
 
 ## 👨‍💻 Featured Projects
