@@ -31,8 +31,3 @@ Check out some of my projects below!
 ---
 
 ⭐️ Feel free to explore my repositories and don't hesitate to connect!
-
-*Last updated: 2025-07-05*
-```
-
-Would you like me to make any further adjustments to the README before you create your profile repository?
