@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I'm Roneel
 
-<!--
-**roneel47/roneel47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer focused on building useful applications and contributing to open source projects. My journey in software development has led me to work with various technologies and frameworks.
 
-Here are some ideas to get you started:
+## 🔭 My Work
+I enjoy creating solutions to real-world problems through code. My repositories showcase my interests in web development, automation, and building practical tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Languages**: JavaScript, Python, HTML/CSS
+- **Frameworks & Libraries**: React.js, Node.js
+- **Tools & Platforms**: Git, GitHub, VS Code
+
+## 📊 GitHub Stats
+- Creating meaningful applications
+- Contributing to open source projects
+- Exploring new technologies
+
+## 🌱 I'm currently learning
+- Advanced React patterns
+- Cloud computing technologies
+- System design principles
+
+## 📫 How to reach me
+- GitHub: [@roneel47good](https://github.com/roneel47good)
+- Portfolio: [My Personal Portfolio](https://portfolio-virid-xi-69.vercel.app/)
+
+## 👨‍💻 Featured Projects
+Check out some of my projects below!
+
+---
+
+⭐️ Feel free to explore my repositories and don't hesitate to connect!
+
+*Last updated: 2025-07-05*
+```
+
+Would you like me to make any further adjustments to the README before you create your profile repository?
